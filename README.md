@@ -16,7 +16,7 @@ Sou Marcos, estudante de Ciência da Computação, interessado em desenvolviment
 ## 📂 Repositórios em destaque
 
 - [🚗 Siga Viagem](https://github.com/MarcosGitCode/Siga-Viagem)  
-  Projeto da faculdade, jogo com parceria com o Metrô de São Paulo
+  Projeto da faculdade, jogo em parceria com o Metrô de São Paulo
 
 ---
 
