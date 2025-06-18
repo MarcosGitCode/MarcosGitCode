@@ -10,10 +10,10 @@ Sou Marcos, estudante de Ciência da Computação, interessado em desenvolviment
 
 ## 🛠️ Tecnologias
 
-- 💻 Linguagens: `Java`, `Python`, `HTML`
+- 💻 Linguagens: `Java`, `Python`, `HTML`, `CSS` 
 - 🗄️ Banco de Dados: `MySQL`
 
-## 📂 Repositórios em destaque
+## 📂 Repositórios
 
 - [🚗 Siga Viagem](https://github.com/MarcosGitCode/Siga-Viagem)  
   Projeto da faculdade, jogo em parceria com o Metrô de São Paulo
